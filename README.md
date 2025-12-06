@@ -2,7 +2,7 @@
 
 ## Dashboard 1: Adventure Works Cycles - Business Performance Dashboard
 
-![til]([https://raw.githubusercontent.com/hashrocket/hr-til/master/app/assets/images/banner.png](https://github.com/burhan-jiru/PowerBI-Portfolio/blob/6c236625b1396f1b76a92bdaed9a8f0a4f6c91ad/Bloomberg%20Dashboard.gif))
+![til](https://github.com/burhan-jiru/PowerBI-Portfolio/blob/6c236625b1396f1b76a92bdaed9a8f0a4f6c91ad/Bloomberg%20Dashboard.gif)
 
 ### Overview
 This interactive business intelligence dashboard provides a comprehensive overview of Adventure Works Cycles' performance metrics across multiple dimensions. The dashboard features six key visualizations designed to give stakeholders a 360-degree view of business health and performance trends.
