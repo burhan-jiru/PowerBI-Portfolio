@@ -69,7 +69,7 @@ This interactive business intelligence dashboard provides a comprehensive overvi
 
 ## Dashboard 2: Bloomberg Billionaires Index - Global Wealth Analytics
 
-![til](https://github.com/burhan-jiru/PowerBI-Portfolio/blob/4ec162056e5a5fc5e5b96ee4d7910cee7c756c9c/Bloomberg%20Dashboard.gif)
+![til](https://github.com/burhan-jiru/PowerBI-Portfolio/blob/6c349148ef9aecc08eba30656af517a70492a4ce/Bloomberg%20Dashboard.gif)
 
 ### Overview
 This sophisticated financial dashboard analyzes global wealth distribution and changes among the world's wealthiest individuals, offering multiple perspectives on billionaire wealth dynamics across industries, geographies, and time periods.
