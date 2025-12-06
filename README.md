@@ -2,7 +2,7 @@
 
 ## Dashboard 1: Adventure Works Cycles - Business Performance Dashboard
 
-![Adventure Works Dashboard](https://raw.githubusercontent.com/burhan-jiru/PowerBI-Portfolio/main/Adventure%20Work%20Dashboard.gif)
+![Adventure Works Dashboard](https://github.com/burhan-jiru/PowerBI-Portfolio/blob/92283411c0e42fb25fdc4eb20bcde575df2ea117/Adventure%20Work%20Dashboard.gif)
 
 ### Overview
 This interactive business intelligence dashboard provides a comprehensive overview of Adventure Works Cycles' performance metrics across multiple dimensions. The dashboard features six key visualizations designed to give stakeholders a 360-degree view of business health and performance trends.
