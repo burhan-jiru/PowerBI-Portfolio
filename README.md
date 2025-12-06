@@ -2,7 +2,7 @@
 
 ## Dashboard 1: Adventure Works Cycles - Business Performance Dashboard
 
-![til](https://github.com/burhan-jiru/PowerBI-Portfolio/blob/e7968d24d4ad4ed809aad2ad15f5743268ce7471/Adventure%20Work%20Dashboard.mp4)
+![til](https://github.com/burhan-jiru/PowerBI-Portfolio/blob/4ec162056e5a5fc5e5b96ee4d7910cee7c756c9c/Adventure%20Work%20Dashboard.gif)
 
 ### Overview
 This interactive business intelligence dashboard provides a comprehensive overview of Adventure Works Cycles' performance metrics across multiple dimensions. The dashboard features six key visualizations designed to give stakeholders a 360-degree view of business health and performance trends.
@@ -68,6 +68,8 @@ This interactive business intelligence dashboard provides a comprehensive overvi
 ---
 
 ## Dashboard 2: Bloomberg Billionaires Index - Global Wealth Analytics
+
+![til](https://github.com/burhan-jiru/PowerBI-Portfolio/blob/4ec162056e5a5fc5e5b96ee4d7910cee7c756c9c/Bloomberg%20Dashboard.gif)
 
 ### Overview
 This sophisticated financial dashboard analyzes global wealth distribution and changes among the world's wealthiest individuals, offering multiple perspectives on billionaire wealth dynamics across industries, geographies, and time periods.
