@@ -121,13 +121,7 @@ This sophisticated financial dashboard analyzes global wealth distribution and c
 ### Data Sources
 
 - **Bloomberg Billionaires Index**: Real-time wealth tracking data updated daily
-- **Market Data Feeds**: Stock prices, currency exchange rates, and asset valuations
-- **Corporate Filings**: SEC disclosures, annual reports, and ownership stakes
-- **Geographic Mapping**: Esri ArcGIS for spatial data and country boundaries
-- **Industry Classifications**: GICS (Global Industry Classification Standard) or custom taxonomy
 - **Historical Data**: Time-series data for trend analysis and YTD calculations
-
-*Note: This appears to be a demonstration dashboard using simulated or sample Bloomberg data structure*
 
 ### Key Insights
 
@@ -160,7 +154,7 @@ This sophisticated financial dashboard analyzes global wealth distribution and c
 - **DAX (Data Analysis Expressions)**: For calculated measures and columns
 - **Power Query (M Language)**: For data transformation and ETL processes
 - **Custom Visuals**: Esri Maps, advanced charts from AppSource
-- **Power BI Service**: For dashboard publishing and sharing (if applicable)
+- **Power BI Service**: For dashboard publishing and sharing
 
 ### Performance Optimization
 - Implemented incremental refresh for large datasets
@@ -171,26 +165,7 @@ This sophisticated financial dashboard analyzes global wealth distribution and c
 
 ### Best Practices Applied
 - Followed star schema design principles for optimal performance
-- Implemented row-level security for sensitive data (where applicable)
 - Created comprehensive documentation for DAX measures
 - Used consistent naming conventions across all objects
-- Established data refresh schedules and error handling
-- Designed mobile-responsive layouts for multi-device access
 
 ---
-
-## Repository Information
-
-This repository contains:
-- GIF demonstrations of dashboard interactivity
-- Sample data files (sanitized/anonymized)
-- Documentation and technical specifications
-- DAX measure library
-- Design guidelines and color palettes used
-
-### Future Enhancements
-- Real-time data integration via APIs
-- Advanced predictive analytics using Python/R integration
-- Natural language Q&A functionality
-- Automated report distribution via email subscriptions
-- Integration with Microsoft Teams for collaborative analysis
